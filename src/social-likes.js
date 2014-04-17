@@ -39,7 +39,7 @@
 				return data.data[0].total_count;
 			},
 			popupUrl: 'https://www.facebook.com/sharer/sharer.php?u={url}',
-			popupWidth: 600,
+			popupWidth: 750,
 			popupHeight: 500
 		},
 		twitter: {
